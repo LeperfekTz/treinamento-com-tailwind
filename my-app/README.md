@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 > Projeto de estudos com Tailwind CSS e Next.js.
 
-<!-- teste -->
+<!-- teste 2 -->
 
 ## Getting Started
 
